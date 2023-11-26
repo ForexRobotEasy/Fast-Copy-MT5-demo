@@ -1,0 +1,108 @@
+mql5
+//+------------------------------------------------------------------+
+//|                                                 Fast Copy MT5 demo|
+//|                                        https://www.forexroboteasy.com|
+//|                                                Forex Robot Easy Team|
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                        Transaction Copying                        |
+//+------------------------------------------------------------------+
+//+------------------------------------------------------------------+
+//| Enable local transaction copying between MetaTrader 4 and MetaTrader 5 accounts|
+//+------------------------------------------------------------------+
+int CopyTransactions(int sourceAccount, int destinationAccount)
+{
+   // implementation to copy transactions between sourceAccount and destinationAccount
+   return 0;
+}
+
+//+------------------------------------------------------------------+
+//|               Implement the functionality to copy transactions in any direction and quantity|
+//+------------------------------------------------------------------+
+int CopyTransactionsInAnyDirection(int sourceAccount, int destinationAccount, int quantity)
+{
+   // implementation to copy 'quantity' number of transactions between sourceAccount and destinationAccount
+   return 0;
+}
+
+//+------------------------------------------------------------------+
+//|                        Intuitive Interface                        |
+//+------------------------------------------------------------------+
+//+------------------------------------------------------------------+
+//| Develop an intuitive interface that allows users to navigate and understand the main settings|
+//| without the need for additional descriptions.                     |
+//+------------------------------------------------------------------+
+void DisplayMainSettings()
+{
+   // implementation to display main settings
+}
+
+//+------------------------------------------------------------------+
+//|            Ensure that all necessary information is displayed clearly and concisely|
+//|                       within the interface.                        |
+//+------------------------------------------------------------------+
+void DisplayClearInformation()
+{
+   // implementation to display necessary information clearly and concisely
+}
+
+//+------------------------------------------------------------------+
+//|                        Main Features                              |
+//+------------------------------------------------------------------+
+//+------------------------------------------------------------------+
+//| Implement the ability to copy transactions quickly and efficiently.|
+//+------------------------------------------------------------------+
+void CopyTransactionsQuickly()
+{
+   // implementation to quickly copy transactions
+}
+
+//+------------------------------------------------------------------+
+//|                 Enable seamless trading across multiple accounts  |
+//+------------------------------------------------------------------+
+void EnableSeamlessTrading()
+{
+   // implementation to enable seamless trading across multiple accounts
+}
+
+//+------------------------------------------------------------------+
+//| Ensure the software caters to the needs of even the most demanding users|
+//+------------------------------------------------------------------+
+void CaterToDemands()
+{
+   // implementation to cater to the needs of demanding users
+}
+
+//+------------------------------------------------------------------+
+//|                        Code Requirements                         |
+//+------------------------------------------------------------------+
+//+------------------------------------------------------------------+
+//| The code should focus solely on implementing the necessary trade  |
+//| functions for transaction copying.                                |
+//+------------------------------------------------------------------+
+// Do not include any additional requirements or text beyond the task of implementing the trade functions
+
+//+------------------------------------------------------------------+
+//|                    Logical Conclusion                            |
+//+------------------------------------------------------------------+
+int OnInit()
+{
+   // initialization code
+   return(INIT_SUCCEEDED);
+}
+
+void OnDeinit(const int reason)
+{
+   // deinitialization code
+}
+
+void OnTick()
+{
+   // tick event processing code
+}
+
+//+------------------------------------------------------------------+
+//|                      Required Comments                           |
+//+------------------------------------------------------------------+
+// Add necessary comments to the code
